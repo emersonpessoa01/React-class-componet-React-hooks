@@ -1,2 +1,2 @@
-# React class componet à React hooks:
--Consiste em capturar valores no teclado e renderizar na tela do usuário
+# React hooks_1:
+-Captura valores no teclado e renderizar na tela do usuário
